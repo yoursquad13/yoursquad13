@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1000/1*4WSg9APOcsfPg5d2OY632w.gif)
+![MasterHead](https://i.imgur.com/pQT0l.gif)
 
 <h1 align="center">Hi 👋, I'm Anish Khatri</h1>
 <h3 align="center">A passionate web developer and programmer</h3>
